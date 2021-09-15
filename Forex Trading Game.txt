@@ -1,0 +1,7 @@
+Instructions
+1. Enter the name of the share you want to buy.
+2. Enter the Quantity.
+3. Enter the name of the share you want to Sell.
+4. Enter the Quantity.
+
+if you are not able to play , open main.cpp and do run and compile.(requires dev c++)
