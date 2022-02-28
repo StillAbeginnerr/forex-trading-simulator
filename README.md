@@ -1,3 +1,1 @@
-# github-upload
-
-I haven't add much details in code.
+A simple stock trading game made with C++ 
